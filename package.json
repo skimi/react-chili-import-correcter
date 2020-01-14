@@ -1,0 +1,23 @@
+{
+  "name": "react-chili-import-correcter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform-react-chili-imports.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skimi/react-chili-import-correcter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skimi/react-chili-import-correcter/issues"
+  },
+  "homepage": "https://github.com/skimi/react-chili-import-correcter#readme",
+  "dependencies": {
+    "acorn": "^7.1.0",
+    "jest": "^24.9.0"
+  }
+}
